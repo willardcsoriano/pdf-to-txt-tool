@@ -57,5 +57,3 @@ The script will generate a file named `your-filename.txt` in the same directory.
 ## License
 
 MIT License - feel free to use and modify!
-
-```
