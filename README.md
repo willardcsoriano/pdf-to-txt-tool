@@ -15,7 +15,7 @@ A lightweight Python utility to extract text from PDF files and save them as `.t
 
 1. **Clone the repository:**
    ```powershell
-   git clone [https://github.com/willardcsoriano/pdf-to-txt-tool.git](https://github.com/willardcsoriano/pdf-to-txt-tool.git)
+   git clone [[https://github.com/willardcsoriano/pdf-to-txt-tool.git](https://github.com/willardcsoriano/pdf-to-txt-tool.git)](https://github.com/willardcsoriano/pdf-to-txt-tool.git)
    cd pdf-to-txt-tool
 
 ```
